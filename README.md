@@ -3,15 +3,13 @@
 
 ![step 1](https://github.com/user-attachments/assets/47b50c9a-08f7-4252-92d8-0a7b2bdb8a6f)
 
-<h1>VPN - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation ousing a VPN.<br />
+<h1>Azure VMs - How to create and use a Azure Virtual Machine</h1>
+This tutorial is based on how to create and connect to a Azure Virtual Machine.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- A VPN (Proton VPN)
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
@@ -19,11 +17,11 @@ This tutorial outlines the prerequisites and installation ousing a VPN.<br />
 
 <h2>STEPS INCLUDED</h2>
 
-- STEP 1 - Locate Local IP
-- STEP 2 - Setting Up VM Using Azure
-- STEP 3 - Locating IP Through VM (France)
-- STEP 4 - Connecting to VPN Through VM
-- STEP 5 - Locating IP Through VPN (Japan)
+- STEP 1 - Create A VM using astra
+- STEP 2 - Locate The Public IP Address In The Azure VM
+- STEP 3 - Open Remote Desktop Connection
+- STEP 4 - Copy And Paste The Required Information Into Remote Desktop (Public IP Address, Usernames, and Passwords) 
+- STEP 5 - Press Connect and you will be connected to the virtual machine
 
 <h2>Installation Steps</h2>
 
