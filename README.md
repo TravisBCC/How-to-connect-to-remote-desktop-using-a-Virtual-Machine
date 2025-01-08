@@ -1,7 +1,7 @@
-# Vitual Private Network (VPN)
+# Azure Virtual Machine (VMs)
 <p align="center">
-<img src="https://i.imgur.com/MntON5Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![step 1](https://github.com/user-attachments/assets/47b50c9a-08f7-4252-92d8-0a7b2bdb8a6f)
 
 <h1>VPN - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation ousing a VPN.<br />
@@ -186,3 +186,8 @@ Virtual Machin IP VPN (Japan) 212.102.51.251
 If you no longer need the VM, ensure to remove it from the Asure account for unwanted charges.
 
 END OF TUTORIAL
+
+
+
+
+
