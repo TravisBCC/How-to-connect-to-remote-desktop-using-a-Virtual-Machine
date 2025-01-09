@@ -70,51 +70,7 @@ Select the “Networking” tab towards the top of the page and view EXAMPLE 2D 
 </p>
 <br />
 
-EXAMPLE 2D
-<p>
-<img src="https://i.imgur.com/OgYgNLK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
-Then select “Review and Create”, once it passes validation select “Create” at the bottom. 
-  
-</p>
-<br />
-
-NEXT: At the Virtual Machine we find that the IP to the Virtual Machine is “20.216.176.18”. See EXAMPLE 2E
-
-EXAMPLE 2E
-
-<p>
-<img src="https://i.imgur.com/ZlH9zI5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-
-STEP 3 – Log Into the VM and Find IP Address
-<p>
-Now that we have set up the Virtual Machine we will connecting to it using the application “Remote Desktop Connection” (EXAMPLE 3A) and input the IP address for the VM that we located in EXAMPLE 2E and then input the set credentials we set when creating the VM (see EXAMPLE 3B). Once logged in, we will open the web browser and again look up www.whatismyipaddress.com (EXAMPLE 3C).
-
-  
-</p>
-<br />
-EXAMPLE 3A
-<p>
-<img src="https://i.imgur.com/YPBkMau.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-  
-</p>
-<br />
-
-EXAMPLE 3B
-<p>
-<img src="https://i.imgur.com/oPJr2w2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-When we look up the IP address for this VM through www.whatismyipaddress.com we see that this VM is showing the location for France (EXAMPLE 3C).
   
 </p>
 <br />
