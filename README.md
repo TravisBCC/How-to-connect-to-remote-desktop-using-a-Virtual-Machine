@@ -25,7 +25,7 @@ This tutorial is based on how to create and connect to a Azure Virtual Machine.<
 
 <h2>Installation Steps</h2>
 
-STEP 1 - Go to www.portal.azure.com and find Virtual Machines. (Create a free account with $200 if you need to). After you find Virtual Machines, Create a VM using the following Info/Settings. 
+STEP 1 - Go to www.portal.azure.com and find Virtual Machines. (Create a free account with $200 if you need to). After you find Virtual Machines, Create a VM using the following Info/Settings. Make sure you create a Username/Password because we will use that to login to the Virtual Machine.
 
 <p>
 
@@ -36,14 +36,13 @@ STEP 1 - Go to www.portal.azure.com and find Virtual Machines. (Create a free ac
 <p>
 
 
-Next we will set up a virtual machine on Azure. 
+Next I will show you how to connect to a Virtual Machine using Remote Desktop.
   
 </p>
 <br />
 
-STEP 2 - Go to www.portal.azure.com and find Virtual Machines. (Create a free account with $200 if you need to). See Example 2A looking at the Virtual Machine set up page. 
+STEP 2 -  After creating the Virtual Machine you need to locate the Public IP Address, and copy it to your clipboard.
 
-EXAMPLE 2A
 <p>
 
 ![step 3](https://github.com/user-attachments/assets/cd4feb16-8184-4348-86ad-7babe774e965)
@@ -51,9 +50,8 @@ EXAMPLE 2A
 </p>
 <p>
 
-Creating the Virtual Machine on Example 2B the VM as “VM-FranceCentral” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
+STEP 3- After you have created your VM and located the public IP address, you need to open Remote Desktop and enter the Public IP Address following with the Username/Password. 
 
-EXAMPLE 2B
 <p>
 
 ![step 4](https://github.com/user-attachments/assets/149f5a4f-4405-4234-9a63-9aacff1dce75)
