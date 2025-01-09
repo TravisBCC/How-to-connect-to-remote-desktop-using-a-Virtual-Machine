@@ -29,7 +29,8 @@ STEP 1 - Locate your own personal IP address by going to "www.whatismyipaddress.
 
 EXAMPLE 1A
 <p>
-<Img src="(https://github.com/user-attachments/assets/b96dab2e-75bb-408e-9990-d71468c8f31a)" height="75%" width="100%" />
+
+![step 2](https://github.com/user-attachments/assets/2b9331e9-5092-424d-8e55-38ad405993c5)
 
 
 </p>
