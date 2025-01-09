@@ -64,7 +64,7 @@ STEP 3- After you have created your VM and located the public IP address, you ne
 <br />
 
 <p>
-
+After you press "Connect" you will be directed to your Virtual Machine. 
 ![step 5](https://github.com/user-attachments/assets/a90d8931-fb2a-4a68-bbef-000fd0ac3269)
 
 </p>
