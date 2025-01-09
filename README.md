@@ -69,7 +69,9 @@ For the Username and Password you can create your custom information, just recor
 
 EXAMPLE 2C
 <p>
-<img src="https://i.imgur.com/rXIj3Zb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![step 5](https://github.com/user-attachments/assets/a90d8931-fb2a-4a68-bbef-000fd0ac3269)
+
 </p>
 <p>
 
