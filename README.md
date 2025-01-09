@@ -56,7 +56,9 @@ Creating the Virtual Machine on Example 2B the VM as “VM-FranceCentral” and 
 
 EXAMPLE 2B
 <p>
-<img src="https://i.imgur.com/u3vclL3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![step 4](https://github.com/user-attachments/assets/149f5a4f-4405-4234-9a63-9aacff1dce75)
+
 </p>
 <p>
 
