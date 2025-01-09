@@ -29,9 +29,10 @@ STEP 1 - Locate your own personal IP address by going to "www.whatismyipaddress.
 
 EXAMPLE 1A
 <p>
-<img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![step 2](https://github.com/user-attachments/assets/cfa7240f-eb90-4b98-a280-85cf57276991)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
 
 Next we will set up a virtual machine on Azure. 
   
