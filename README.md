@@ -59,12 +59,10 @@ STEP 3- After you have created your VM and located the public IP address, you ne
 </p>
 <p>
 
-For the Username and Password you can create your custom information, just record it personally.
   
 </p>
 <br />
 
-EXAMPLE 2C
 <p>
 
 ![step 5](https://github.com/user-attachments/assets/a90d8931-fb2a-4a68-bbef-000fd0ac3269)
@@ -72,7 +70,7 @@ EXAMPLE 2C
 </p>
 <p>
 
-Select the “Networking” tab towards the top of the page and view EXAMPLE 2D inputs to match. 
+That is how you connect to a Virtual Machine using Remote Desktop.
   
 </p>
 <br />
