@@ -1,4 +1,4 @@
-# Azure Virtual Machine (VMs)
+# Remote Desktop (VMs)
 <p align="center">
 
 ![step 1](https://github.com/user-attachments/assets/47b50c9a-08f7-4252-92d8-0a7b2bdb8a6f)
