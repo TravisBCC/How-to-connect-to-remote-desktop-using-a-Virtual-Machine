@@ -46,7 +46,9 @@ STEP 2 - Go to www.portal.azure.com and find Virtual Machines. (Create a free ac
 
 EXAMPLE 2A
 <p>
-<img src="https://i.imgur.com/K9oaS2z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![step 3](https://github.com/user-attachments/assets/cd4feb16-8184-4348-86ad-7babe774e965)
+
 </p>
 <p>
 
