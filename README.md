@@ -17,7 +17,7 @@ This tutorial is based on how to create and connect to a Azure Virtual Machine.<
 
 <h2>STEPS INCLUDED</h2>
 
-- STEP 1 - Create A VM using astra
+- STEP 1 - Create A VM using Azure
 - STEP 2 - Locate The Public IP Address In The Azure VM
 - STEP 3 - Open Remote Desktop Connection
 - STEP 4 - Copy And Paste The Required Information Into Remote Desktop (Public IP Address, Usernames, and Passwords) 
@@ -25,9 +25,8 @@ This tutorial is based on how to create and connect to a Azure Virtual Machine.<
 
 <h2>Installation Steps</h2>
 
-STEP 1 - Locate your own personal IP address by going to "www.whatismyipaddress.com" which will be able to show you your local IP address. We will use this later as well. See EXAMPLE 1A below.
+STEP 1 - Go to www.portal.azure.com and find Virtual Machines. (Create a free account with $200 if you need to). After you find Virtual Machines, Create a VM using the following Info/Settings. 
 
-EXAMPLE 1A
 <p>
 
 ![step 2](https://github.com/user-attachments/assets/2b9331e9-5092-424d-8e55-38ad405993c5)
