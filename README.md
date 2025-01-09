@@ -96,6 +96,5 @@ END OF TUTORIAL
 
 
 
-![step 2](https://github.com/user-attachments/assets/b96dab2e-75bb-408e-9990-d71468c8f31a)
 
 
